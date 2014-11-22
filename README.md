@@ -1,6 +1,3 @@
-getcleandata-course-project
-===========================
-
 This README file contains instructions for running the "run_analysis.R" script
 written for coursera.org "Getting and Cleaning Data" course project.
 
@@ -53,5 +50,5 @@ efficient manner.
       (1) Each column contains a single variable (means of the measurement variables).
       (2) Each row contains a single observation (subject x activity name).
       (3) Each type of observational unit (set of smart phone measurements) is in a table.
-10.Finally write out the data table for upload as required by the assignment. This file may 
-   be easily examined running the R command "result <- read.table("result.txt", header=TRUE)"
+10. Finally write out the data table for upload as required by the assignment. This file may 
+   be easily examined running the R command "result <- read.table("result.txt", header=TRUE)"	  
